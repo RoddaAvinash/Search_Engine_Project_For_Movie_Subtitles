@@ -1,4 +1,4 @@
-# 🎬 Movie Subtitles Search Engine 🎥
+# Search Engine Project for Movie Subtitles
 
 A simple search engine for movie subtitles database, built with Streamlit.
 
@@ -13,4 +13,4 @@ This project allows users to search for movie subtitles based on their queries. 
 - Displays search results if matches are found in the database.
 - Informs the user if the query is not present in the database.
 
-## App: https://search-engine-for-subtitles-database-by-anand.streamlit.app/
+
